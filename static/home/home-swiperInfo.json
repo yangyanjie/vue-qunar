@@ -1,0 +1,50 @@
+{
+    "ret": true,
+    "homeSwiperInfoList": [
+        {
+            "id": 1,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg",
+            "imglink": "https://sale.piao.qunar.com/touch/topic/mk/t_2579.htm?cat=from_value%3DTOPIC-2017%E6%BB%91%E9%9B%AA%E5%AD%A3%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D1"
+        },
+        {
+            "id": 2,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/bd/04554e7c67650302.jpg_640x200_cd2a40cb.jpg",
+            "imglink": "https://sale.piao.qunar.com/touch/topic/mk/t_2636.htm?cat=from_value%3DTOPIC-%E5%85%AB%E8%BE%BE%E5%B2%AD%E4%B8%93%E9%A2%98%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D2"
+        },
+        {
+            "id": 3,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/6f/bc9f575c0b712c02.jpg_640x200_cd835f3d.jpg",
+            "imglink": "https://sale.piao.qunar.com/touch/topic/mk/t_2390.htm?cat=from_value%3DTOPIC-%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%26%E6%98%A5%E8%8A%82%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D3"
+        },
+        {
+            "id": 4,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/1a/94428c6dea109402.jpg_640x200_2cf590d8.jpg",
+            "imglink": "https://touch.piao.qunar.com/touch/detail.htm?id=26102&cat=from_value%3DPOI-26102%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D4"
+        },
+        {
+            "id": 5,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/56/cc09a2717375e302.jpg_640x200_9cf5e3a8.jpg",
+            "imglink": "https://touch.piao.qunar.com/touch/detail.htm?id=456569&cat=from_value%3DPOI-456569%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D5"
+        },
+        {
+            "id": 6,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/42/7c92b9a381e46402.jpg_640x200_1cdce2a4.jpg",
+            "imglink": "https://touch.piao.qunar.com/touch/detail.htm?id=7881&cat=from_value%3DPOI-7881%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D6"
+        },
+        {
+            "id": 7,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/ef/405aacfd706cd202.jpg_640x200_5d5afab6.jpg",
+            "imglink": "https://touch.piao.qunar.com/touch/detail.htm?id=193512&cat=from_value%3DPOI-193512%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D7"
+        },
+        {
+            "id": 8,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1707/90/2ab6fd356529aa02.jpg_640x200_5a7251a0.jpg",
+            "imglink": "https://sale.piao.qunar.com/touch/topic/mk/t_2291.htm?cat=from_value%3DTOPIC-%E5%8C%97%E4%BA%AC%E6%99%AF%E7%82%B9%E8%AE%B2%E8%A7%A3%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D8"
+        },
+        {
+            "id": 9,
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1801/33/9eb0d54beeb5b502.jpg_640x200_18d64e72.jpg",
+            "imglink": "https://sale.piao.qunar.com/touch/topic/mk/t_2245.htm?cat=from_value%3DTOPIC-%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%26from_area%3Dts_topic%26dist_city%3D%E5%8C%97%E4%BA%AC%26from_index%3D9"
+        }
+    ]
+}
